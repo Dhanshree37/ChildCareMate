@@ -2,7 +2,7 @@
 
 ChildCareMate is a full-stack web application designed to support parents and caregivers of children, especially those with special needs. The app combines learning, health tracking, communication support, and professional resources in one centralized platform.
 
-![App Banner](./screenshots/intro-image.jpeg)
+![App Banner](./screenshots/intro-image.png)
 
 ---
 
@@ -17,9 +17,7 @@ ChildCareMate is a full-stack web application designed to support parents and ca
 
 ## 📸 Screenshots
 
-| Communication Board | Milestone Tracker | Therapist Locator | Gamified Learning |
-|---------------------|-------------------|-------------------|-------------------|
-| ![communication](./screenshots/communication.jpg) | ![milestone](./screenshots/milestone.jpg) | ![map](./screenshots/therapist.jpg) | ![game](./screenshots/game.jpg) |
+![screenshot](./screenshots/screeshot1.png) 
 
 
 
